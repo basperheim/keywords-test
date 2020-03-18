@@ -1,0 +1,4 @@
+[
+  { "key": 1, "keyword": "postgres test", "searches": 999 },
+  { "key": 2, "keyword": "mongodb test", "searches": 1000 }
+]
