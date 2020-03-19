@@ -1,4 +1,5 @@
 [
-  { "key": 1, "keyword": "postgres test", "searches": 999 },
-  { "key": 2, "keyword": "mongodb test", "searches": 1000 }
+  { "id": 1, "keyword": "postgres test", "searches": 999 },
+  { "id": 2, "keyword": "mongodb test", "searches": 1000 },
+  { "id": 3, "keyword": "elasticsearch test", "searches": 1000 }
 ]
